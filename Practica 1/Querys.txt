@@ -1,4 +1,4 @@
-Creacion de tablas( BibliotecaV1 )
+Creacion de tablas (Bibliotecas V1)
 
 CREATE TABLE AUTOR(
   ID INT PRIMARY KEY,
